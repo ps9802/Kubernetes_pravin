@@ -1,2 +1,2 @@
-# Kubernetes_pravin
-Alok material
+# kubernetes
+Additional learning material on kubernetes
